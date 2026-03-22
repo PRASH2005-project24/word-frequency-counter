@@ -8,7 +8,8 @@ A sleek, modern web app that counts word frequencies in text files. Upload a `.t
 
 ## 🌐 Live Demo
 
-🔗 **[Try it online →]()**
+🔗 **[Try it online](https://word-frequency-counter-by-project24.streamlit.app)**
+
 
 ## 📸 Screenshots
 
